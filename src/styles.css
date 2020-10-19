@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  display: inline-block;
+  margin: auto;
+}
+
+.center {
+  text-align: center;
+  font-style: unset;
+}
+
+.separator {
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+}
