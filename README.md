@@ -1,7 +1,7 @@
 # React_redux_project_3_pagination
 Created with CodeSandbox
 
-## [Inspiration](https://github.com/StephenGrider/redux-code/tree/master/blog)
+## [Inspiration](https://github.com/StephenGrider/redux-code/tree/master/blog) - Blog project of Stephen Grinder
 
 ## About the project - 
   * the project will fetch the data of USERS and POSTS from JSONPLACEHOLDERAPI and show it to the screen
